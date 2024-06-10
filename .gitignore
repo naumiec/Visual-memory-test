@@ -1,3 +1,13 @@
+.DS_Store
+latex
+html
+plots/*.png
+results/*.csv
+results/*.txt
+results/*.json
+.idea
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
